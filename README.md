@@ -13,6 +13,6 @@ In this project, I created a Symbol, Hash, CSV, JSON, and Binary Table in Java s
 - <b>MacOS</b>
 
 <h2>Example of tables printed to console: </h2>
-<img width="665" alt="DataAndFileTablesPrinted" src="https://github.com/user-attachments/assets/1f3f0e76-c625-42d2-8b3e-94cce65f188c" />
+<img width="680" alt="Screenshot 2025-01-15 at 12 24 15 PM" src="https://github.com/user-attachments/assets/bd70f0bb-a383-4411-a711-3a8612f69013" />
 
 
